@@ -1,0 +1,2 @@
+# baby
+a automation script
