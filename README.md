@@ -1,2 +1,2 @@
 # baby
-a automation script
+An automated script that uses wechat to send greetings.
